@@ -1,0 +1,8 @@
+# ignore Mac system files
+.DS_store
+
+# ignore notebook checkpoint files
+.ipynb_checkpoints
+
+# ignore data folder
+data/
