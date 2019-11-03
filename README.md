@@ -1,6 +1,6 @@
 # fashion-MNIST
 
-This is our model for the Fashion MNIST Kaggle competition. 
+This is our model for the [Fashion MNIST Kaggle competition](https://www.kaggle.com/c/mais202-fall2019/) for the MAIS 202 bootcamp, organized by the McGill Articificial Intelligence Society. 
 Our final submission to the competition can be found at `submissions/competition_submission.csv`.
 
 ## How to run
